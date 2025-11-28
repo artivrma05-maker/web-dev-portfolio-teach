@@ -112,7 +112,7 @@ section h2::after {
     padding: 120px 20px;       /* Large top/bottom spacing */
     background: linear-gradient(135deg, #006239 0%, #004d2d 100%); /* Primary green gradient */
     /* To use an image instead, uncomment below and replace 'your-image.jpg' with your image path: */
-    /* background-image: url('your-image.jpg'); */
+    background-image: url('resources/hachiko-hachiko-thumbal-hoa.jpg');
     /* background-size: cover; */
     /* background-position: center; */
     color: #fafafa;            /* Secondary foreground (light text) */
@@ -123,14 +123,14 @@ section h2::after {
 
 .hero h1 {
     font-size: 3.5rem;         /* Very large name text */
-    color: #fafafa;            /* Secondary foreground (light color) */
+    color: #210101;            /* Secondary foreground (light color) */
     margin-bottom: 15px;       /* Space below name */
     font-weight: 700;          /* Extra bold */
 }
 
 .hero p {
     font-size: 1.3rem;         /* Medium-large tagline text */
-    color: #dde8e3;            /* Primary foreground color */
+    color: #0a1b13;            /* Primary foreground color */
     margin-bottom: 35px;       /* Space below tagline */
 }
 
@@ -303,7 +303,7 @@ section h2::after {
 }
 
 #contact a:hover {
-    background-color: #006239; /* Primary green background */
+    background-color: #006239; /* Primary green background */ 
     color: #fafafa;            /* Secondary foreground (light text) on hover */
     transform: scale(1.05);    /* Slightly larger */
     box-shadow: 0 5px 15px rgba(0, 98, 57, 0.4); /* Green glow */
